@@ -2,8 +2,8 @@
 
 ### Contributors
 
-* Deepanshu Sharma	(2K21/IT/059)
 * Chirag Rana 		(2K21/IT/056)
+* Deepanshu Sharma	(2K21/IT/059)
 
 ## Introduction:
 <p 
